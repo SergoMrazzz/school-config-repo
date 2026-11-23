@@ -1,0 +1,4 @@
+school:
+  students:
+    minimum-age: 6
+    maximum-class-size: 30

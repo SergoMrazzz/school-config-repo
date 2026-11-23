@@ -1,0 +1,4 @@
+school:
+  schedule:
+    lesson-duration-minutes: 45
+    break-duration-minutes: 10

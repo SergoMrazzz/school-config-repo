@@ -1,0 +1,4 @@
+school:
+  grades:
+    minimum-passing-grade: 2
+    exam-weight: 0.40
