@@ -1,0 +1,14 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: fee-service
+  config:
+    import: "configserver:http://localhost:8888"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health
