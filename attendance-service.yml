@@ -1,4 +1,4 @@
 school:
   attendance:
-    minimum-percentage: 90
+    minimum-percentage: 85
     maximum-late-arrivals: 3
