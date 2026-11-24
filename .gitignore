@@ -1,0 +1,16 @@
+# Java build outputs
+**/target/
+**/build/
+**/.gradle/
+**/bin/
+**/out/
+*.class
+
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA metadata
+.idea/
+*.iml
